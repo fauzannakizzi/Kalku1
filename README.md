@@ -1,5 +1,3 @@
-# Kalku1
-Kalkulator Sederhana
 #include<iostream>
 using namespace std;
 
