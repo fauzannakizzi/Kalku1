@@ -1,3 +1,4 @@
+//kalkulator sederhana
 #include<iostream>
 using namespace std;
 
